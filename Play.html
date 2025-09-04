@@ -1,0 +1,27 @@
+<body style="background-color:black;">
+</html>
+<video width="100%" height="100%" muted autoplay loop style="position: fixed;">
+  <source src="https://github.com/mr-ghetto/ghettoman/raw/refs/heads/main/Back%20This.webm" type="video/webm">
+</video>	
+
+<script src="https://unpkg.com/@esotericsoftware/spine-player@4.2.*/dist/iife/spine-player.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/@esotericsoftware/spine-player@4.2.*/dist/spine-player.min.css">
+<div id="player-container" style="width: 100%; height: 100%;" style=" align-items: center; display: flex;
+  justify-content: center;"></div>
+
+<script>
+new spine.SpinePlayer("player-container", {
+      skeleton: "https://raw.githubusercontent.com/mr-ghetto/ghettoman/refs/heads/main/LyraRigBox.json",
+      atlas: "https://raw.githubusercontent.com/mr-ghetto/ghettoman/refs/heads/main/LyraRigBox.atlas",
+      scale: 1,
+      animation: "Idle", 
+      alpha: true,
+      backgroundColor: "#00000000"
+     
+
+
+});
+</script>
+
+</body>
+</html>
