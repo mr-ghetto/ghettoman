@@ -1,6 +1,6 @@
 
 LyraRigBox.png
-size: 1874,2021
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -69,7 +69,7 @@ torsoA
   index: -1
 
 LyraRigBox2.png
-size: 1902,2035
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -131,7 +131,7 @@ headB
   index: -1
 
 LyraRigBox3.png
-size: 2048,1963
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -284,69 +284,69 @@ headA
   index: -1
 
 LyraRigBox4.png
-size: 2021,1808
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 RarmA
-  rotate: true
-  xy: 1312, 812
+  rotate: false
+  xy: 1312, 651
   size: 523, 604
   orig: 523, 604
   offset: 0, 0
   index: -1
 Win_00017
   rotate: false
-  xy: 1312, 1337
+  xy: 530, 245
   size: 707, 469
   orig: 960, 540
   offset: 115, 0
   index: -1
 Win_00018
-  rotate: false
-  xy: 544, 739
+  rotate: true
+  xy: 2, 2
   size: 748, 526
   orig: 960, 540
   offset: 89, 0
   index: -1
 Win_00021
-  rotate: true
-  xy: 2, 1035
+  rotate: false
+  xy: 2, 1486
   size: 771, 540
   orig: 960, 540
   offset: 73, 0
   index: -1
 Win_00022
   rotate: true
-  xy: 2, 264
+  xy: 775, 1257
   size: 769, 540
   orig: 960, 540
   offset: 66, 0
   index: -1
 Win_00023
   rotate: false
-  xy: 544, 1267
+  xy: 544, 716
   size: 766, 539
   orig: 960, 540
   offset: 63, 0
   index: -1
 Win_00024
   rotate: true
-  xy: 1052, 5
+  xy: 2, 752
   size: 732, 540
   orig: 960, 540
   offset: 61, 0
   index: -1
 Win_00025
   rotate: true
-  xy: 544, 2
+  xy: 1317, 1291
   size: 735, 506
   orig: 960, 540
   offset: 59, 0
   index: -1
 Win_00028
-  rotate: true
-  xy: 1594, 238
+  rotate: false
+  xy: 1239, 252
   size: 572, 397
   orig: 960, 540
   offset: 150, 0
