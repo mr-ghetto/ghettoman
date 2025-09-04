@@ -85,22 +85,22 @@ Win_00000
   rotate: false
   xy: 2, 18
   size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
+  orig: 480, 270
+  offset: 479, 0
   index: -1
 Win_00001
   rotate: false
-  xy: 2, 18
+  xy: 2, 15
   size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
+  orig: 480, 270
+  offset: 0, 269
   index: -1
 Win_00002
   rotate: false
-  xy: 2, 18
+  xy: 2, 12
   size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
+  orig: 480, 270
+  offset: 479, 269
   index: -1
 Win_00003
   rotate: true
