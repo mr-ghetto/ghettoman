@@ -1,5 +1,5 @@
 
-LyraRigBox.png
+PharellRigBox.png
 size: 2001,1969
 format: RGBA8888
 filter: Linear,Linear
@@ -90,24 +90,24 @@ Shadow
   index: -1
 Win_00000
   rotate: false
-  xy: 1359, 539
-  size: 1, 2
+  xy: 1359, 540
+  size: 1, 1
   orig: 480, 270
-  offset: 236, 24
+  offset: 236, 14
   index: -1
 Win_00001
   rotate: false
-  xy: 1267, 1720
-  size: 2, 2
+  xy: 1359, 537
+  size: 1, 1
   orig: 480, 270
-  offset: 238, 25
+  offset: 242, 20
   index: -1
 Win_00002
   rotate: false
-  xy: 1271, 1720
-  size: 2, 2
+  xy: 1359, 534
+  size: 1, 1
   orig: 480, 270
-  offset: 239, 18
+  offset: 238, 17
   index: -1
 Win_00003
   rotate: true
