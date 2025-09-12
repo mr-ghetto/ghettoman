@@ -1,0 +1,349 @@
+
+MetroRigBox.png
+size: 1953,1985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LarmA
+  rotate: false
+  xy: 1689, 1552
+  size: 200, 431
+  orig: 200, 431
+  offset: 0, 0
+  index: -1
+LarmB
+  rotate: false
+  xy: 547, 2
+  size: 246, 293
+  orig: 246, 293
+  offset: 0, 0
+  index: -1
+LarmC
+  rotate: true
+  xy: 1753, 218
+  size: 153, 152
+  orig: 153, 152
+  offset: 0, 0
+  index: -1
+LlegA
+  rotate: false
+  xy: 2, 1040
+  size: 546, 943
+  orig: 546, 943
+  offset: 0, 0
+  index: -1
+LlegB
+  rotate: true
+  xy: 807, 250
+  size: 399, 208
+  orig: 399, 208
+  offset: 0, 0
+  index: -1
+RarmA
+  rotate: false
+  xy: 547, 297
+  size: 258, 352
+  orig: 258, 352
+  offset: 0, 0
+  index: -1
+RarmB
+  rotate: false
+  xy: 1135, 732
+  size: 143, 286
+  orig: 143, 286
+  offset: 0, 0
+  index: -1
+RarmC
+  rotate: true
+  xy: 1152, 3
+  size: 142, 149
+  orig: 142, 149
+  offset: 0, 0
+  index: -1
+RlegA
+  rotate: false
+  xy: 2, 102
+  size: 352, 936
+  orig: 352, 936
+  offset: 0, 0
+  index: -1
+RlegB
+  rotate: false
+  xy: 550, 1020
+  size: 401, 208
+  orig: 401, 208
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 356, 89
+  size: 949, 189
+  orig: 949, 189
+  offset: 0, 0
+  index: -1
+Win_00000
+  rotate: false
+  xy: 547, 1037
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Win_00001
+  rotate: false
+  xy: 547, 1034
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Win_00002
+  rotate: false
+  xy: 547, 1031
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Win_00003
+  rotate: false
+  xy: 547, 1028
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Win_00004
+  rotate: false
+  xy: 1907, 338
+  size: 44, 33
+  orig: 480, 270
+  offset: 67, 89
+  index: -1
+Win_00005
+  rotate: true
+  xy: 1452, 21
+  size: 124, 72
+  orig: 480, 270
+  offset: 62, 83
+  index: -1
+Win_00006
+  rotate: false
+  xy: 1810, 19
+  size: 139, 89
+  orig: 480, 270
+  offset: 55, 83
+  index: -1
+Win_00007
+  rotate: false
+  xy: 156, 4
+  size: 153, 96
+  orig: 480, 270
+  offset: 51, 83
+  index: -1
+Win_00008
+  rotate: false
+  xy: 2, 2
+  size: 152, 98
+  orig: 480, 270
+  offset: 51, 83
+  index: -1
+Win_00009
+  rotate: true
+  xy: 1843, 373
+  size: 153, 103
+  orig: 480, 270
+  offset: 50, 83
+  index: -1
+Win_00010
+  rotate: true
+  xy: 1835, 528
+  size: 156, 105
+  orig: 480, 270
+  offset: 51, 84
+  index: -1
+Win_00011
+  rotate: false
+  xy: 1753, 110
+  size: 152, 106
+  orig: 480, 270
+  offset: 54, 84
+  index: -1
+Win_00012
+  rotate: false
+  xy: 1303, 41
+  size: 147, 104
+  orig: 480, 270
+  offset: 57, 86
+  index: -1
+Win_00013
+  rotate: false
+  xy: 1668, 7
+  size: 140, 101
+  orig: 480, 270
+  offset: 63, 87
+  index: -1
+Win_00014
+  rotate: false
+  xy: 1692, 373
+  size: 149, 109
+  orig: 480, 270
+  offset: 44, 72
+  index: -1
+Win_00015
+  rotate: false
+  xy: 1526, 19
+  size: 140, 105
+  orig: 480, 270
+  offset: 51, 71
+  index: -1
+Win_00016
+  rotate: true
+  xy: 1835, 686
+  size: 193, 110
+  orig: 480, 270
+  offset: 57, 64
+  index: -1
+Win_00017
+  rotate: true
+  xy: 1579, 346
+  size: 228, 111
+  orig: 480, 270
+  offset: 65, 57
+  index: -1
+Win_00018
+  rotate: false
+  xy: 1689, 1386
+  size: 262, 164
+  orig: 480, 270
+  offset: 73, 30
+  index: -1
+Win_00019
+  rotate: false
+  xy: 1236, 147
+  size: 298, 199
+  orig: 480, 270
+  offset: 79, 14
+  index: -1
+Win_00020
+  rotate: false
+  xy: 953, 1020
+  size: 354, 208
+  orig: 480, 270
+  offset: 83, 19
+  index: -1
+Win_00021
+  rotate: false
+  xy: 1280, 576
+  size: 355, 212
+  orig: 480, 270
+  offset: 87, 17
+  index: -1
+Win_00022
+  rotate: true
+  xy: 1017, 301
+  size: 356, 217
+  orig: 480, 270
+  offset: 91, 15
+  index: -1
+Win_00023
+  rotate: true
+  xy: 909, 659
+  size: 359, 224
+  orig: 480, 270
+  offset: 93, 14
+  index: -1
+Win_00024
+  rotate: false
+  xy: 1309, 1019
+  size: 350, 226
+  orig: 480, 270
+  offset: 106, 13
+  index: -1
+Win_00025
+  rotate: false
+  xy: 795, 21
+  size: 355, 227
+  orig: 480, 270
+  offset: 107, 13
+  index: -1
+Win_00026
+  rotate: false
+  xy: 1280, 790
+  size: 348, 227
+  orig: 480, 270
+  offset: 117, 12
+  index: -1
+Win_00027
+  rotate: false
+  xy: 1236, 348
+  size: 341, 226
+  orig: 480, 270
+  offset: 124, 13
+  index: -1
+Win_00028
+  rotate: true
+  xy: 1689, 1085
+  size: 299, 223
+  orig: 480, 270
+  offset: 167, 14
+  index: -1
+Win_00029
+  rotate: false
+  xy: 1536, 126
+  size: 215, 218
+  orig: 480, 270
+  offset: 250, 15
+  index: -1
+Win_00030
+  rotate: true
+  xy: 1661, 881
+  size: 202, 215
+  orig: 480, 270
+  offset: 260, 16
+  index: -1
+Win_00031
+  rotate: false
+  xy: 1637, 669
+  size: 196, 210
+  orig: 480, 270
+  offset: 262, 18
+  index: -1
+Win_00032
+  rotate: false
+  xy: 1692, 484
+  size: 141, 183
+  orig: 480, 270
+  offset: 310, 34
+  index: -1
+headA
+  rotate: false
+  xy: 1327, 1247
+  size: 360, 367
+  orig: 360, 367
+  offset: 0, 0
+  index: -1
+headA1
+  rotate: false
+  xy: 547, 651
+  size: 360, 367
+  orig: 360, 367
+  offset: 0, 0
+  index: -1
+headA2
+  rotate: false
+  xy: 1327, 1616
+  size: 360, 367
+  orig: 360, 367
+  offset: 0, 0
+  index: -1
+torsoA
+  rotate: false
+  xy: 1004, 1289
+  size: 321, 694
+  orig: 321, 694
+  offset: 0, 0
+  index: -1
+torsoB
+  rotate: false
+  xy: 550, 1230
+  size: 452, 753
+  orig: 452, 753
+  offset: 0, 0
+  index: -1
